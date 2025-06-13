@@ -1,6 +1,7 @@
 # KMART-Retail-dashboard
  Developed a sales performance dashboard for KMART by analyzing contributions from both online and offline stores. The dashboard provides insights into total and average sales, top-performing product categories and state-wise sales distribution across Australia.
 Behind the shelves of Kmart lies many hidden narratives- While digging deep, I unearthed some interesting facts about this store:
+
 🔥 While KMART ONLINE only makes up 29% of transactions, it likely contributes a disproportionately high share of large-value sales- particularly in the category of clothing and fashion which occupies roughly 21.9% of the total online share.
 📍 NSW alone contributes to 29% of the sales entries- due to high urban density or higher online demand.
 📦June 2023 and August 2024 has shown some unusual spike in sales, likely aligned with seasonal events such as end-of-year holidays or back-to-school periods.
