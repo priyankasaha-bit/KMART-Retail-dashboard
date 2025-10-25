@@ -44,14 +44,15 @@ Data tells stories — and like a Pandora’s box, it reveals unexpected truths 
 ---
 
 🖼️ **Dashboard Preview**
-https://github.com/priyankasaha-bit/KMART-Retail-dashboard/blob/main/KMART%20Screen%20shot.png?raw=true
+
+![KMART](https://github.com/priyankasaha-bit/KMART-Retail-dashboard/blob/main/KMART%20Screen%20shot.png?raw=true)
 
 -----
 
 📂 **Download the Excel File**
 
 You can download the Excel workbook here:  
-![KMART](https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing)
+https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing
 
 ---
 
