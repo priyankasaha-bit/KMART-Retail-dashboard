@@ -6,12 +6,14 @@
 ---
 
 📖 **Project Overview**
+
 The KMART Retail Dashboard is a comprehensive Excel-based analysis designed to track **sales performance**, **profitability**, and **customer insights** across various product categories and regions.  
 This dashboard helps business managers identify sales trends, compare performance over time, and make informed merchandising decisions.
 
 ---
 
 🎯 **Key Objectives**
+
 - Visualize total sales, profit, and quantity sold by region and category  
 - Identify top-performing products and underperforming segments  
 - Use dynamic slicers and charts for easy data exploration  
@@ -20,6 +22,7 @@ This dashboard helps business managers identify sales trends, compare performanc
 ---
 
 📊**Key Insights**
+
 - KMART is one of the leading retail stores in Australia. 
 Behind the shelves of Kmart lies many hidden narratives- While digging deep, I unearthed some interesting facts about this store:
 
@@ -42,11 +45,13 @@ Data tells stories — and like a Pandora’s box, it reveals unexpected truths 
 
 
 📂 **Download the Excel File**
+
 You can download the Excel workbook here:  
 https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing 
 
 ---
 
 💬 **About the Author**
+
 Created by **Priyanka Saha**, Data Analyst passionate about transforming raw retail data into actionable business intelligence.  
 📧 **LinkedIn:** edin.com/in/priyanka-saha-a79a46241/
