@@ -51,7 +51,7 @@ https://github.com/priyankasaha-bit/KMART-Retail-dashboard/blob/main/KMART%20Scr
 📂 **Download the Excel File**
 
 You can download the Excel workbook here:  
-https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing 
+![KMART](https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing)
 
 ---
 
