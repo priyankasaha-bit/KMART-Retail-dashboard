@@ -43,6 +43,10 @@ Data tells stories — and like a Pandora’s box, it reveals unexpected truths 
 
 ---
 
+🖼️ **Dashboard Preview**
+https://github.com/priyankasaha-bit/KMART-Retail-dashboard/blob/main/KMART%20Screen%20shot.png?raw=true
+
+-----
 
 📂 **Download the Excel File**
 
@@ -51,7 +55,7 @@ https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=shari
 
 ---
 
-💬 **About the Author**
+💬 **Created by**
 
-Created by **Priyanka Saha**, Data Analyst passionate about transforming raw retail data into actionable business intelligence.  
-📧 **LinkedIn:** edin.com/in/priyanka-saha-a79a46241/
+**Priyanka Saha**, Data Analyst passionate about transforming raw retail data into actionable business intelligence.  
+📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
