@@ -1,4 +1,4 @@
-🛒 **KMART Retail Sales Dashboard**
+# KMART Retail Sales Dashboard
 
 **Tool:** Microsoft Excel  
 **Skills Used:** Data Cleaning • Pivot Tables • Data Visualization • Dashboard Design • KPI Analysis • Conditional Formatting  
