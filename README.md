@@ -59,4 +59,4 @@ https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=shari
 💬 **Created by**
 
 **Priyanka Saha**, Data Analyst passionate about transforming raw retail data into actionable business intelligence.  
-📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/
+📧 **LinkedIn:** https://www.linkedin.com/in/priyanka-saha-a79a46241/details/projects/
