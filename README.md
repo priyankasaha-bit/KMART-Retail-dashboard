@@ -52,7 +52,9 @@ Data tells stories — and like a Pandora’s box, it reveals unexpected truths 
 📂 **Download the Excel File**
 
 You can download the Excel workbook here:  
-https://drive.google.com/file/d/1RkbO9KRRecB19ssWGWJFbklkM-SuG46u/view?usp=sharing
+📊 **Download the Power BI File**  
+[Download KMART Project](https://drive.google.com/uc?export=download&id=1RkbO9KRRecB19ssWGWJFbklkM-SuG46u)
+
 
 ---
 
