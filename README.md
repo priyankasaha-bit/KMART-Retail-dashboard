@@ -24,7 +24,7 @@ This dashboard helps business managers identify sales trends, compare performanc
 📊**Key Insights**
 
 KMART is one of the leading retail stores in Australia. 
-Behind the shelves of Kmart lies many hidden narratives- While digging deep, I unearthed some interesting facts about this store:
+Behind the shelves of Kmart lies many hidden narratives- while digging deep, I unearthed some interesting facts about this store:
 
 🔥 While KMART ONLINE only makes up 29% of transactions, it likely contributes a disproportionately high share of large-value sales- particularly in the category of clothing and fashion which occupies roughly 21.9% of the total online share.
 
